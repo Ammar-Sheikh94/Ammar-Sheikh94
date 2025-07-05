@@ -1,4 +1,4 @@
-![ChatGPT Image Jul 4, 2025, 07_47_26 PM](https://github.com/user-attachments/assets/6741aa40-a748-4d3c-aab1-3f5c179a6b02)
+![ChatGPT Image Jul 4, 2025, 07_47_26 PM](https://github.com/user-attachments/assets/ad23e3cc-4d3c-45a0-a92c-29bfe2d2bffc)
 
 ## 👩‍💻 About Me
 
