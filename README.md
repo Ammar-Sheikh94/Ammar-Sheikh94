@@ -17,7 +17,6 @@ I’m Ammar Sheikh, an accomplished IT Lead with a strong track record in managi
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-51284F?style=for-the-badge&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white)
 ![ITSM](https://img.shields.io/badge/IT%20Service%20Management-005A9C?style=for-the-badge&logo=windows&logoColor=white)
 ![Software Troubleshooting](https://img.shields.io/badge/Software%20Troubleshooting-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Snow Software](https://img.shields.io/badge/Snow%20Software-002D72?style=for-the-badge&logo=snowflake&logoColor=white)
