@@ -21,7 +21,7 @@ I’m Ammar Sheikh, an accomplished IT Lead with a strong track record in managi
 ![Software Troubleshooting](https://img.shields.io/badge/Software%20Troubleshooting-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Snow Software](https://img.shields.io/badge/Snow%20Software-002D72?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Amadeus](https://img.shields.io/badge/Amadeus-0056A2?style=for-the-badge&logo=amadeus&logoColor=white)
-![OKTB](https://img.shields.io/badge/OKTB-Tech-blue?style=for-the-badge)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![Cisco Webex](https://img.shields.io/badge/Cisco%20Webex-2E9FFF?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## 🔗 Let's Connect:
